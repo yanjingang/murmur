@@ -1,1 +1,1 @@
-module github.com/go-ego/murmur
+module github.com/yanjingang/murmur
